@@ -20,4 +20,4 @@ attacks.py
 
 ## References
 
-- [RFC 7919 - Appendix A.2: ffdhe3072](https://www.rfc-editor.org/rfc/rfc7919.html#appendix-A.2) — Standardized 3072-bit finite-field Diffie-Hellman group, including the prime modulus \(p\), generator \(g=2\), and subgroup order \(q=(p-1)/2\).
+- [RFC 7919 - Appendix A.2: ffdhe3072](https://www.rfc-editor.org/rfc/rfc7919.html#appendix-A.2) - Standardized 3072-bit finite-field Diffie-Hellman group, including the prime modulus \(p\), generator \(g=2\), and subgroup order \(q=(p-1)/2\).
